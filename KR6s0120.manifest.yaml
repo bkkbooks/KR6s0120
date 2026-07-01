@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6s0120/v1
+canonical_location: https://kanripo.org/bkk/KR6s0120/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 智證大師請來目錄
+  identifiers:
+    alt_id:
+    - T55n2173
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2173.xml
+    old_id: T55n2173
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 丙
+  label: 丙
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0120_000.yaml, hash: 'sha256:b5934f8dcacefe84aa65c6e6fbfa660de2a5b9a3019ddaca0374d619213bdc23'}
+  - {seq: 1, filename: KR6s0120_001.yaml, hash: 'sha256:fc37c4e5e24b4130a6d492b2d7f2d68ed172c1d53e406ea0b420a11bbfb98c4b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0120_001.markers.yaml, hash: 'sha256:d299e1cff3312b2d0818377eaaba767a725d65a6ceb0a9285870b806c98b19bd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0120_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6067
+  label: 智證大師請來目錄
+  type: juan
+  level: 1
+hash: sha256:4d4258b3f10439c42329329ebff433584df80dbd0805d4e81319f5fe3cfa370d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

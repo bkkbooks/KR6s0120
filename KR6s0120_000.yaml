@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0120/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 智證大師請來目錄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2173.xml
+    old_id: T55n2173
+hash: sha256:b5934f8dcacefe84aa65c6e6fbfa660de2a5b9a3019ddaca0374d619213bdc23
