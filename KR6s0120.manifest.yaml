@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0120_000.yaml, hash: 'sha256:b5934f8dcacefe84aa65c6e6fbfa660de2a5b9a3019ddaca0374d619213bdc23'}
-  - {seq: 1, filename: KR6s0120_001.yaml, hash: 'sha256:fc37c4e5e24b4130a6d492b2d7f2d68ed172c1d53e406ea0b420a11bbfb98c4b'}
+  - {seq: 1, filename: KR6s0120_001.yaml, hash: 'sha256:ad4b2be10df56584ad58138f8c617a490f8cacbe9ecc2b96c87ce9d70b3218a9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0120_001.markers.yaml, hash: 'sha256:d299e1cff3312b2d0818377eaaba767a725d65a6ceb0a9285870b806c98b19bd'}
+  - {seq: 0, role: markers, filename: assets/KR6s0120_000.markers.yaml, hash: 'sha256:df792f336466d318fa0d756d003a267a33724f41f2c3491134b6ca1ff9888d89'}
+  - {seq: 1, role: markers, filename: assets/KR6s0120_001.markers.yaml, hash: 'sha256:f612ce493be6880cf9da7e15387314b50e290b281492c28a78e828257f40cb66'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 智證大師請來目錄
   type: juan
   level: 1
-hash: sha256:4d4258b3f10439c42329329ebff433584df80dbd0805d4e81319f5fe3cfa370d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ee308ac70f58cc11f5cbfad517cba54b6c9ace684a5cb8351446bac47a0ae54f
